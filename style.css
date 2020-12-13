@@ -1,0 +1,50 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body{
+    font-family: 'Libre Franklin';
+    font-size: 20px;
+}
+main{
+    margin: 4% auto;
+    text-align: center;
+}
+#logo{
+    margin-bottom: 20px;
+}
+h1{
+    color: hsl(0, 0%, 59%);
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+h1 span{
+    font-weight: 700;
+    color: black;
+}
+#hero-img{
+    width: 600px;
+    margin-bottom: 30px;
+}
+input{
+    width: 300px;
+    height: 41px;
+    border-radius: 50px;
+    border: 1px solid hsla(0, 0%, 59%, 0.548);
+    padding-left: 30px;
+    color: hsl(0, 0%, 59%);
+    margin: 20px 5px  20px 0px;
+}
+button{
+    border: none;
+    border-radius: 50px;
+    width: 180px;
+    height: 44px;
+    background-color: hsl(223, 87%, 63%);
+    color: white;
+    margin-left: 5px;
+}
+#footer{
+    font-size: 13px;
+    color: hsl(0, 0%, 59%);
+}
